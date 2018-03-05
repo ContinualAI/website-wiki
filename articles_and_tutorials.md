@@ -2,16 +2,13 @@
 title:  "Articles and Tutorials"
 layout: page
 ---
-In this page you will find every article or tutorial related to Continuous Learning.
+In this page you will find every media article or tutorial related to Continuous Learning.
 
 <h3 id="summary" style="margin-bottom: 30px;">Articles</h3>
 
-<li><span><a href="http://www.sciencedirect.com/science/article/pii/S1364661399012942"> Catastrophic forgetting in connectionist networks</a></li>
-<li><span><a href="http://arxiv.org/abs/1511.03163"> Semi-supervised Tuning from Temporal Coherence</a></li>
-<li><span><a href="http://link.springer.com/chapter/10.1007/978-3-319-46182-3_15"> Comparing Incremental Learning Strategies for Convolutional Neural Networks</a> </li>
-<li><span><a href="https://www.cs.uic.edu/~liub/lifelong-machine-learning.html"> Lifelong Learning Machine</a> </li>
-<li><span><a href="https://arxiv.org/abs/1802.06024">Towards a Continuous Knowledge Learning Engine for Chatbots</a> </li>
-<li><span><a href=" ">  </a> </li>
+<li><span><a href="https://www.darpa.mil/news-events/2017-03-16"> DARPA: Toward Machines that Improve with Experience  </a> </li>
+<li><span><a href="https://e27.co/artificial-intelligence-disrupting-education-20180302/"> How artificial inteligence is disrupting education </a> </li>
+<li><span><a href="https://spectrum.ieee.org/cars-that-think/robotics/artificial-intelligence/darpa-seeking-ai-that-can-learn-all-the-time"> Seeking AI That Learns All the Time </a> </li>
 <li><span><a href=" ">  </a> </li>
 
 <h3 id="summary" style="margin-bottom: 30px;">Tutorials</h3>
