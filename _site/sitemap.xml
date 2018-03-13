@@ -81,7 +81,7 @@
     <url>
       <loc>http://continuosai.com/about_us/</loc>
       
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -94,9 +94,9 @@
   
     
     <url>
-      <loc>http://continuosai.com/articles_and_tutorials/</loc>
+      <loc>http://continuosai.com/background/</loc>
       
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -111,7 +111,7 @@
     <url>
       <loc>http://continuosai.com/categories/</loc>
       
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -126,7 +126,7 @@
     <url>
       <loc>http://continuosai.com/feed.xml</loc>
       
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -141,7 +141,7 @@
     <url>
       <loc>http://continuosai.com/home/</loc>
       
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -156,7 +156,7 @@
     <url>
       <loc>http://continuosai.com/old_site/</loc>
       
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -171,7 +171,7 @@
     <url>
       <loc>http://continuosai.com/blog/</loc>
       
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -186,7 +186,7 @@
     <url>
       <loc>http://continuosai.com/</loc>
       
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -201,7 +201,7 @@
     <url>
       <loc>http://continuosai.com/industry/</loc>
       
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -216,7 +216,22 @@
     <url>
       <loc>http://continuosai.com/js/main.js</loc>
       
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://continuosai.com/news_and_media/</loc>
+      
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -231,7 +246,7 @@
     <url>
       <loc>http://continuosai.com/research/</loc>
       
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -242,28 +257,28 @@
     </url>
     
   
+    
+  
+    
+    <url>
+      <loc>http://continuosai.com/software_and_tutorials/</loc>
+      
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
     
   
     
     <url>
       <loc>http://continuosai.com/tags/</loc>
       
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://continuosai.com/tools_and_materials/</loc>
-      
-        <lastmod>2018-03-01T12:53:31-05:00</lastmod>
+        <lastmod>2018-03-13T02:22:05-04:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
