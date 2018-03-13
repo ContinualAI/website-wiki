@@ -31,4 +31,4 @@ We are building an open-source, collaborative wiki [continuousai.com](http://con
 
 8. Now you can start making changes on the see the result in your browser at  http://localhost:4000/
 
-9. Make a Pull Request! :D
+9. Make a Pull Request (with only the .md or original .html files)! :D

@@ -15,7 +15,7 @@ In the context of Machine Learning it means being able to smoothly update the pr
 Hence, CL is the only paradigm which force us to deal with an higher and realistic time-scale where data (and tasks) becomes available only during time, we have no access to previous perception data and it’s imperative to build on top of previously learned knowledge.
 
 <a href="#cl-background"></a>
-<h3 id="cl-backgorund" style="margin-bottom:30px">Biological/Neuroscience Prospective</h3>
+<h3 id="cl-backgorund" style="margin-bottom:30px">Biological Prospective</h3>
 
 ...
 
