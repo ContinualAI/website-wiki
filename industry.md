@@ -21,6 +21,7 @@ In this section we provide a list of companies that exploit Continuous Learning 
 
 - [Neurala][neurala] uses deep learning neural network software that makes smart products (drones) more autonomous and useful. In particular, Neurala Lifelong Deep Neural Networks (Lifelong-DNN™) enable incremental learning of new objects on the fly, without the power of a server located in the cloud. Neurala accomplishes this by combining different neural network architectures (more info at [https://www.neurala.com/press-releases/edge-deep-learning-without-cloud][neurala-lifelong]).
 
+-  [Amazon-Comprehend][Amazon-Comprehend] analyzes text and tells you what it finds, starting with the language, from Afrikans to Yoruba, with 98 more in between. It can identify different types of entities (people, places, brands, products, and so forth), key phrases, sentiment (positive, negative, mixed, or neutral), and extract key phrases, all from text in English or Spanish. Finally, Comprehend‘s topic modeling service extracts topics from large sets of documents for analysis or topic-based grouping
 ...
 
 <a href="#projects"></a>
@@ -31,3 +32,4 @@ In this section we provide a list of companies that exploit Continuous Learning 
 [linkedin]: https://www.linkedin.com/in/vincenzo
 [neurala]: https://www.neurala.com/
 [neurala-lifelong]:https://www.neurala.com/press-releases/edge-deep-learning-without-cloud
+[Amazon-Comprehend]:https://aws.amazon.com/comprehend/
