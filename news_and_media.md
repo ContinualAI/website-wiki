@@ -17,4 +17,4 @@ In this page you will find any tool and useful material related to CL.
 
 - [Why Continuous Learning is the key towards Machine Intelligence](https://medium.com/@vlomonaco/why-continuous-learning-is-the-key-towards-machine-intelligence-1851cb57c308)
 - [Why continuous learning is key to AI](https://www.oreilly.com/ideas/why-continuous-learning-is-key-to-ai)
-
+- [DARPA Seeking AI That Learns All the Time](https://spectrum.ieee.org/cars-that-think/robotics/artificial-intelligence/darpa-seeking-ai-that-can-learn-all-the-time)
