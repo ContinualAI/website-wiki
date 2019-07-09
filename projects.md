@@ -50,7 +50,7 @@ Waiting for better AI tools for papers recommendation the ContinualAI community 
 <a name="medium"></a>
 <h3 id="medium" style="margin-bottom:30px">Medium Publication</h3>
 
-At ContinualAI we value scientific dissemination. We think that to advance science it is important to promote cutting-hedge research and make it accessible to a larger audience of people. This is why we maintain a [Medium Publication](https://medium.com/continual-ai) where we try to distill and simplify the continual learning ideas with as little technical details as possible.
+At ContinualAI we value scientific dissemination. We think that to advance science it is important to promote cutting-edge research and make it accessible to a larger audience of people. This is why we maintain a [Medium Publication](https://medium.com/continual-ai) where we try to distill and simplify the continual learning ideas with as little technical details as possible.
 
 <a name="newsletter"></a>
 <h3 id="newsletter" style="margin-bottom:30px">Mailing list/Newsletter</h3>
