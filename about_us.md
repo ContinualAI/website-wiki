@@ -130,6 +130,7 @@ We are always happy to add new members and get some help for improving our wiki 
  - [Francesco Manfredi](https://www.datafor.fun/) &bull; AI master student @ University of Pisa
  - [Gianpiero Salvi](https://www.kth.se/profile/giampi) &bull; Associate ML Professor @ KTH Royal Institute of Technology 
  - [Amine Othman](https://www.linkedin.com/in/amine-othman-961a95132/) &bull; R&D Engineer @ NFC-i
+ - [Mikel Elkano](https://www.linkedin.com/in/elkano/) &bull; Research Scientist @ Neuraptic AI
  - ...
 
 
