@@ -95,7 +95,7 @@ CLAIR is maintained by the following ContinualAI scientists:
 	<p>
 		<strong><a href="https://www.vincenzolomonaco.com/">Vincenzo Lomonaco</a></strong><br>
 		Director of Research<br>
-		<em>Neuroscience-inspired AI, Continual Learing, Robotics</em><br>
+		<em>Neuroscience-inspired AI, Continual Learning, Robotics</em><br>
 		 <a href="mailto:vincenzo.lomonaco@continualai.org">vincenzo.lomonaco@continualai.org</a><br>
 	</p>
 </div>
@@ -105,7 +105,7 @@ CLAIR is maintained by the following ContinualAI scientists:
 	<p>
 		<strong><a href="https://andreacossu.github.io/">Andrea Cossu</a></strong><br>
 		Chief Scientist<br>
-		<em>Continual Learing, Sequence Learning</em><br>
+		<em>Continual Learning, Sequence Learning</em><br>
 		 <a href="mailto:vincenzo.lomonaco@continualai.org">andrea.cossu@continualai.org</a><br>
 	</p>
 </div>
@@ -115,7 +115,7 @@ CLAIR is maintained by the following ContinualAI scientists:
 	<p>
 		<strong><a href="https://sites.google.com/view/giparisi/home">German I. Parisi</a></strong><br>
 		Research Scientist<br>
-		<em>Neuroscience-inspired AI, Continual Learing, Robotics</em><br>
+		<em>Neuroscience-inspired AI, Continual Learning, Robotics</em><br>
 		 <a href="mailto:vincenzo.lomonaco@continualai.org">german.parisi@continualai.org</a><br>
 	</p>
 </div>
@@ -125,7 +125,7 @@ CLAIR is maintained by the following ContinualAI scientists:
 	<p>
 		<strong><a href="https://www.kwcooper.xyz">Keiland Cooper</a></strong><br>
 		Research Scientist<br>
-		<em>Neuroscience, Neuroscience-inspired AI, Continual Learing</em><br>
+		<em>Neuroscience, Neuroscience-inspired AI, Continual Learning</em><br>
 		<a href="mailto:keiland.cooper@continualai.org">keiland.cooper@continualai.org</a><br>
 	</p>
 </div>
@@ -135,7 +135,7 @@ CLAIR is maintained by the following ContinualAI scientists:
 	<p>
 		<strong><a href="http://sheqi.mystrikingly.com">Qi She</a></strong><br>
 		Research Scientist<br>
-		<em>Continual Learing, Robotics</em><br>
+		<em>Continual Learning, Robotics</em><br>
 		<a href="mailto:qi.she@continualai.org">qi.she@continualai.org</a><br>
 	</p>
 </div>
@@ -145,7 +145,7 @@ CLAIR is maintained by the following ContinualAI scientists:
 	<p>
 		<strong><a href="https://jeremyforest.github.io/">Jeremy Forest</a></strong><br>
 		Research Scientist<br>
-		<em>Neuroscience, Neuroscience-inspired AI, Continual Learing</em><br>
+		<em>Neuroscience, Neuroscience-inspired AI, Continual Learning</em><br>
 		<a href="mailto:jeremy.forest@continualai.org">jeremy.forest@continualai.org</a><br>
 	</p>
 </div>
