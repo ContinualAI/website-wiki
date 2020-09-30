@@ -1,4 +1,4 @@
-# Continual AI - Website-Wiki
+# Continual AI - Website-Wiki - An Amazing Website 
 <img src="https://continualai.herokuapp.com/badge.svg">
 
 Continual AI is the first hub on Continual / Lifelong Deep Learning in AI! :-)
