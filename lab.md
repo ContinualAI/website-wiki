@@ -32,8 +32,9 @@ layout: page
 
 At the moment CLAI Lab is maintaining the following collaborative projects:
 
+- [ContinualAI Avalanche](https://avalanche.continualai.org)
 - [ContinualAI Wiki](https://github.com/ContinualAI/wiki)
-- [ContinualAI Forum](https://continualai.discourse.group/)
+- [ContinualAI Forum](https://continualai.discourse.group)
 - [ContinualAI Colab](https://github.com/ContinualAI/colab)
 - [ContinualAI Publication](https://medium.com/continual-ai)
 
@@ -107,16 +108,6 @@ CLAI Lab is composed by the following ContinualAI members:
 		Team Lead<br>
 		<em>Continual Learning, Sequence Learning</em><br>
 		 <a href="mailto:vincenzo.lomonaco@continualai.org">andrea.cossu@continualai.org</a><br>
-	</p>
-</div>
-
-<div>
-	<img src="/{{ site.baseurl }}images/parisi.jpg" style="width:100px;height:100px; float:left;margin-right:30px">
-	<p>
-		<strong><a href="https://sites.google.com/view/giparisi/home">German I. Parisi</a></strong><br>
-		Maintainer<br>
-		<em>Neuroscience-inspired AI, Continual Learning, Robotics</em><br>
-		 <a href="mailto:vincenzo.lomonaco@continualai.org">german.parisi@continualai.org</a><br>
 	</p>
 </div>
 

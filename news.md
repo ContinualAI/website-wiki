@@ -26,6 +26,8 @@ Here we list the most important news about **ContinualAI**. However, we recommen
 <a name="news"></a>
 <h3 id="news" style="margin-bottom: 30px;">News & Events</h3>
 
+- **[ May 20, 2020 ]** We just released the alpha version of [Avalanche: an End-to-End Library for Continual Learning](https://avalanche.continualai.org)!
+
 - **[ May 20, 2020 ]** We are excited to sponsor the [Lifelong Learning for Long-term Human-Robot Interaction (LL4LHR) Workshop](https://sites.google.com/view/ll4lhri2020/objectives-and-challenges) at RO-MAN'20 in Naples, Italy. Submissions are open!
 
 - **[ Feb 25, 2020 ]** The [Continual Learning Challenge](https://sites.google.com/view/clvision2020/challenge?authuser=0) we are sponsoring within the 1st workshop on *Continual Learning in Computer Vision (CLVISION)* at CVPR 2020 is now open for submissions!
