@@ -2,6 +2,7 @@
 title:  "Research"
 layout: page
 ---
+
 ## Papers graph
     
 {% include embedding-plot.html %}
