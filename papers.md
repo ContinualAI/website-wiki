@@ -7,6 +7,7 @@ layout: page
     
 {% include embedding-plot.html %}
 
+<div id="publicationsdiv">
 ## Publications
 
 In this section we maintain an updated list of publications related to Continual Learning.
@@ -26,7 +27,7 @@ by the ContinualAI community through an open Mendeley group! Join our group [her
 
 <script>
     function get_papers_li() {
-      sec = document.getElementById("publications");
+      sec = document.getElementById("publicationsdiv");
       li = sec.getElementsByTagName('li');
       return li;
     }
@@ -19312,5 +19313,7 @@ In this section we maintain a list of all Robotics papers that can be related to
 <span id="mitchell1993Robotics_year" class="yearSpan" style="display: none">1993</span>
 
 
+
+</div>
 
 
