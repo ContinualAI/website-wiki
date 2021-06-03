@@ -7,7 +7,6 @@ layout: page
     
 {% include embedding-plot.html %}
 
-<div id="publicationsdiv">
 ## Publications
 
 In this section we maintain an updated list of publications related to Continual Learning.
@@ -19312,8 +19311,5 @@ In this section we maintain a list of all Robotics papers that can be related to
 </span></p>
 <span id="mitchell1993Robotics_year" class="yearSpan" style="display: none">1993</span>
 
-
-
-</div>
 
 
