@@ -27,14 +27,16 @@ Join us today [on slack](https://join.slack.com/t/continualai/shared_invite/enQt
 <div style="text-align:center; margin-bottom:20px; margin-top:0px"><img style="width:100%" src ='/{{ site.baseurl }}images/contai-board.png'/></div>
 
 
- - [Vincenzo Lomonaco](http://vincenzolomonaco.com) &bull; Co-founder & President, Post-Doc @ University of Bologna
+ - [Vincenzo Lomonaco](http://vincenzolomonaco.com) &bull; Co-founder & President, Post-Doc @ University of Pisa
  - [Keiland Cooper](http://kwcooper.xyz) &bull; Co-founder & Board member, & Neuroscientist @ University of California, Irvine
- - [Natalia Díaz Rodríguez](https://nataliadiaz.github.io/) &bull; Co-founder & Board member, Assistant Professor @ ENSTA ParisTech
  - [German I. Parisi](https://giparisi.github.io/) &bull; Co-founder & Board member, Research Associate @ University of Hamburg
- - [Davide Maltoni](https://www.unibo.it/sitoweb/davide.maltoni/en) &bull; Co-founder & Board member, Professor @ University of Bologna
+ - [Andrea Cossu](https://giparisi.github.io/) &bull; Board member & Treasurer, Researcher @ University of Pisa
 
 	<a name="board"></a>
 	<h5 id="board" style="margin-bottom:10px">Former Board Members</h5>
+
+ - [Davide Maltoni](https://www.unibo.it/sitoweb/davide.maltoni/en) &bull; Co-founder & Board member from March 2019 until March 2021.
+ - [Natalia Díaz Rodríguez](https://nataliadiaz.github.io) &bull; Co-founder & Board member from March 2019 until March 2021.
  - [Timothée Lesort](https://scholar.google.com/citations?user=5NttkuoAAAAJ&hl=en) &bull; Co-founder and Board Member from March 2019 until Feb 2020.
 
  <!-- Other 6 board members will be elected by democratic means during the first plenary of the organization. -->
