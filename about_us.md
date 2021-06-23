@@ -30,7 +30,7 @@ Join us today [on slack](https://join.slack.com/t/continualai/shared_invite/enQt
  - [Vincenzo Lomonaco](http://vincenzolomonaco.com) &bull; Co-founder & President, Post-Doc @ University of Pisa
  - [Keiland Cooper](http://kwcooper.xyz) &bull; Co-founder & Board member, & Neuroscientist @ University of California, Irvine
  - [German I. Parisi](https://giparisi.github.io/) &bull; Co-founder & Board member, Research Associate @ University of Hamburg
- - [Andrea Cossu](https://giparisi.github.io/) &bull; Board member & Treasurer, Researcher @ University of Pisa
+ - [Andrea Cossu](https://andreacossu.github.io/) &bull; Board member & Treasurer, Researcher @ University of Pisa
 
 	<a name="board"></a>
 	<h5 id="board" style="margin-bottom:10px">Former Board Members</h5>
